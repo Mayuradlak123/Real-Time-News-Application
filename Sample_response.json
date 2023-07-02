@@ -1,0 +1,135 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [{
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Renowned founder Brian Lee and Derek Jeter have a new sports card biz with a digital bent",
+            "description": "L.A.-based entrepreneur Brian Lee, who previously co-founded and ran The Honest Company, ShoeDazzle.com, and LegalZoom, has launched a new sports card collecting platform that’s likely to make a splash, not least because his cofounder in the endeavor is Baseb…",
+            "url": "https://techcrunch.com/2022/09/08/renowned-founder-brian-lee-and-derek-jeter-have-a-new-sports-card-biz-with-a-digital-bent/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/05/img_1185.jpg?w=1200",
+            "publishedAt": "2022-09-09T03:25:52Z",
+            "content": "L.A.-based entrepreneur Brian Lee, who previously co-founded and ran The Honest Company, ShoeDazzle.com, and LegalZoom, has launched a new sports card collecting platform that’s likely to make a spla… [+4097 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Matney",
+            "title": "Crypto's biggest powerhouse flexes on its competition",
+            "description": "Welcome to Chain Reaction, where we unpack and explain the latest in crypto news, drama and trends, breaking things down block by block for the crypto curious. For our Thursday episode this week, we discussed the latest drama surrounding crypto mega exchange …",
+            "url": "https://techcrunch.com/2022/09/08/cryptos-biggest-powerhouse-flexes-on-its-competition/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/binance.jpg?w=1200",
+            "publishedAt": "2022-09-08T23:38:43Z",
+            "content": "Welcome to Chain Reaction, where we unpack and explain the latest in crypto news, drama and trends, breaking things down block by block for the crypto curious.\r\nFor our Thursday episode this week, we… [+758 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Daily Crunch: Tim Cook weighs in on standardized messaging features: 'Buy your mom an iPhone'",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/09/08/daily-crunch-tim-cook-weighs-in-on-standardized-messaging-features-buy-your-mom-an-iphone/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/apple-fall-2022-.jpg?w=1200",
+            "publishedAt": "2022-09-08T21:12:50Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nHelloooo! Since our last Daily Crunch, our adrenaline-fueled TechCr… [+2857 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jaclyn Trop",
+            "title": "Tesla wants your vote for new Supercharger locations",
+            "description": "Tesla said Thursday it is turning to the public to help determine where to locate its next Superchargers as the automaker continues to expand its network of EV fast-charging stations in North America, Europe and Asia. The company’s @TeslaCharging account wrot…",
+            "url": "https://techcrunch.com/2022/09/08/tesla-wants-your-vote-for-new-supercharger-locations/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/Supercharger-Savings-Hero-Desktop-NA.jpeg?w=1200",
+            "publishedAt": "2022-09-08T21:06:11Z",
+            "content": "Tesla said Thursday it is turning to the public to help determine where to locate its next Superchargers as the automaker continues to expand its network of EV fast-charging stations in North America… [+953 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Our 10 favorite startups from YC's S22 Demo Day: Part 2",
+            "description": "This list is for fun, in no particular order -- just startups that stood out to TechCrunch reporters for one reason or another.",
+            "url": "https://techcrunch.com/2022/09/08/our-10-favorite-startups-from-ycs-s22-demo-day-part-2/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/yc-school.png?w=1200",
+            "publishedAt": "2022-09-08T20:59:39Z",
+            "content": "And we’re back! Yes, today was the second day of pitches from Y Combinator, a U.S. startup accelerator with global outreach that conducts demo days twice a year. This years Summer 2022 cohort gave us… [+794 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Rocket Lab, Sierra Space sign agreements under US military's rocket cargo project",
+            "description": "The military is interested in how cargo capsules can be used to enable ultra-high-speed logistics.",
+            "url": "https://techcrunch.com/2022/09/08/rocket-lab-sierra-space-sign-agreements-under-space-forces-rocket-cargo-program/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/Dream-Chaser-Delivers-at-Hypersonic-Speed.jpg?w=1200",
+            "publishedAt": "2022-09-08T20:57:24Z",
+            "content": "Rocket Lab and Sierra Space have signed separate agreements with the U.S. Department of Defense (DOD) to explore how their respective flight systems — Rocket Lab’s Electron and Neutron rockets, Sierr… [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "YC Demo Day did not have a very long list of creator companies, but here's who stood out",
+            "description": "Y Combinator doesn't seem particularly interested in the creator economy, but a few companies stuck out.",
+            "url": "https://techcrunch.com/2022/09/08/yc-demo-day-s-22-creator-company-list/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/pexels-photo-6347558.webp?w=1200",
+            "publishedAt": "2022-09-08T20:48:32Z",
+            "content": "Creator economy startups are tricky. It can be risky to ask creators to rely on a possibly precarious, pre-seed company to power an important aspect of their business — if you fail, as most startups … [+4395 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Google upgrades its Apple AirDrop competitor 'Nearby Share' and five other Android updates",
+            "description": "Google introduced Thursday a bevy of new features for Android devices, including an upgrade to a self-share option that works like rival Apple’s AirDrop and lets users transfer files across its ecosystem of phones, tablets, and Chromebooks. The wide range of …",
+            "url": "https://techcrunch.com/2022/09/08/google-upgrades-its-apple-airdrop-competitor-nearby-share-and-five-other-android-updates/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-08-at-2.24.34-PM-1.png?w=1200",
+            "publishedAt": "2022-09-08T20:46:41Z",
+            "content": "Google introduced Thursday a bevy of new features for Android devices, including an upgrade to a self-share option that works like rival Apple’s AirDrop and lets users transfer files across its ecosy… [+3301 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Flighty's app will bring flight tracking and more to your iOS 16 Lock Screen",
+            "description": "Airlines are a mess in the post-Covid world, with flight cancellations, rescheduling, and last-minute gate changes becoming more common. A number of apps are available to help travelers keep up with flight tracking and alerts — but when you’re in a rush, even…",
+            "url": "https://techcrunch.com/2022/09/08/flightys-app-will-bring-flight-tracking-and-more-to-your-ios-16-lock-screen/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/flighty-app.png?w=1200",
+            "publishedAt": "2022-09-08T20:34:11Z",
+            "content": "Airlines are a mess in the post-Covid world, with flight cancellations, rescheduling, and last-minute gate changes becoming more common. A number of apps are available to help travelers keep up with … [+3296 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Instagram will begin testing a new repost feature with select users soon",
+            "description": "Instagram is gearing up to give users the ability to repost other users’ posts, the social network confirmed to TechCrunch. Although the Meta-owned company hasn’t released the repost feature publically yet, it plans to begin testing it with select users soon.…",
+            "url": "https://techcrunch.com/2022/09/08/instagram-will-begin-testing-a-new-repost-feature-with-select-users-soon/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/instagram-icon-ios-closeup.jpg?w=1200",
+            "publishedAt": "2022-09-08T20:25:19Z",
+            "content": "Instagram is gearing up to give users the ability to repost other users’ posts, the social network confirmed to TechCrunch. Although the Meta-owned company hasn’t released the repost feature publical… [+3568 chars]"
+        }
+    ]
+}

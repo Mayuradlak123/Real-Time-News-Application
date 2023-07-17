@@ -32,7 +32,7 @@ const News = ({ category }) => {
   };
 
   return (
-    <div className="w-full px-3 mt-6 mt-14">
+    <div className="w-full px-3 mt-6 mt-16">
       {/* <h3 className="text-center mt-70">Today's Top Headlines</h3> */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {articles.map((element) => (

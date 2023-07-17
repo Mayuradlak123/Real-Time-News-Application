@@ -1,9 +1,11 @@
-import React, { useState } from 'react';
-import {Link} from "react-router-dom"
+import React, { useState } from "react";
+import swal from "sweetalert";
+import { Link } from "react-router-dom";
 const Login = () => {
+  
   const [formData, setFormData] = useState({
-    email: '',
-    password: '',
+    email: "",
+    password: "",
   });
 
   const handleChange = (e) => {
@@ -15,7 +17,20 @@ const Login = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(formData);
+    const token = localStorage.getItem("token");
+    if (token) {
+      const getEmail = localStorage.getItem("email");
+      const getPwd = localStorage.getItem("password");
+      if (formData.email == getEmail && getPwd == formData.password) {
+        swal("Message", "Logged in Successfully", "success");
+        localStorage.setItem("login",true)
+        document.getElementById("redirect").click();
+        window.location.reload()
+      }
+    } else {
+      swal("Message", "Invalid Credential", "error");
+    }
+
     // Add your login logic here
   };
 
@@ -25,7 +40,10 @@ const Login = () => {
         <h2 className="text-2xl text-center mb-6">Login</h2>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
-            <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-700">
+            <label
+              htmlFor="email"
+              className="block mb-2 text-sm font-medium text-gray-700"
+            >
               Email
             </label>
             <input
@@ -39,7 +57,10 @@ const Login = () => {
             />
           </div>
           <div className="mb-4">
-            <label htmlFor="password" className="block mb-2 text-sm font-medium text-gray-700">
+            <label
+              htmlFor="password"
+              className="block mb-2 text-sm font-medium text-gray-700"
+            >
               Password
             </label>
             <input
@@ -52,15 +73,15 @@ const Login = () => {
               required
             />
           </div>
-          <Link
-          to="/"
+          <button
             type="submit"
             className="w-full text-center px-4 py-2 text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600"
           >
             Login
-          </Link>
+          </button>
         </form>
       </div>
+      <Link to="/" id="redirect" className="hidden"></Link>
     </div>
   );
 };
